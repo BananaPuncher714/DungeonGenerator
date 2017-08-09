@@ -1,0 +1,9 @@
+name: DungeonGenBETA
+main: io.github.bananapuncher714.DungeonGenMain
+version: 0.1
+author: BananaPuncher714
+commands:
+    maze:
+        description: Creates a test maze
+    dungeon:
+        description: Generates a test dungeon
